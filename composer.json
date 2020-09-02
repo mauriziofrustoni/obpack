@@ -1,0 +1,17 @@
+{
+    "name": "openbox/obpack",
+    "description": "OpenBox webPack",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maurizio Frustoni",
+            "email": "m.frustoni@open-box.it"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"openbox\\ObPack\\": "src/"}
+    },
+    "require": {}
+}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a3ec6af-3581-4ac4-a34a-47f099569a52" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="ProjectId" id="1gusZMfy1I4XnFVjS61yxWo4eaO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a3ec6af-3581-4ac4-a34a-47f099569a52" name="Default Changelist" comment="" />
+      <created>1598975865355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598975865355</updated>
+      <workItem from="1598975866645" duration="794000" />
+      <workItem from="1599031215611" duration="922000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2662" y="241" key="NewPhpClassDialog" timestamp="1598976053979">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2662" y="241" key="NewPhpClassDialog/1920.0.1920.1080/0.18.1920.1032@1920.0.1920.1080" timestamp="1598976053979" />
+    <state x="2381" y="171" key="SettingsEditor" timestamp="1598976044572">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2381" y="171" key="SettingsEditor/1920.0.1920.1080/0.18.1920.1032@1920.0.1920.1080" timestamp="1598976044572" />
+  </component>
+</project>
