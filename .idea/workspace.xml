@@ -19,6 +19,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -30,7 +36,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598975865355</updated>
       <workItem from="1598975866645" duration="794000" />
-      <workItem from="1599031215611" duration="922000" />
+      <workItem from="1599031215611" duration="2687000" />
     </task>
     <servers />
   </component>
@@ -38,10 +44,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2662" y="241" key="NewPhpClassDialog" timestamp="1598976053979">
+    <state x="2871" y="282" width="435" height="585" key="NewPhpClassDialog" timestamp="1599042542201">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2662" y="241" key="NewPhpClassDialog/1920.0.1920.1080/0.18.1920.1032@1920.0.1920.1080" timestamp="1598976053979" />
+    <state x="2871" y="282" width="435" height="585" key="NewPhpClassDialog/1920.0.1920.1080/0.18.1920.1032@1920.0.1920.1080" timestamp="1599042542201" />
     <state x="2381" y="171" key="SettingsEditor" timestamp="1598976044572">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
