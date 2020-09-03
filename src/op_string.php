@@ -83,7 +83,7 @@ class op_string
     }
 
     /**
-     * Toglie ricorsivamente una stringa dall'inizio di una testo
+     * Toglie ricorsivamente una stringa dall'inizio di una testo.
      * @param string $text
      * @param string $string
      * @param boolean $caseSensitive
@@ -105,7 +105,7 @@ class op_string
     }
 
     /**
-     * Toglie ricorsivamente una stringa dalla fine di una testo
+     * Toglie ricorsivamente una stringa dalla fine di una testo.
      * @param string $text
      * @param string $string
      * @param boolean $caseSensitive
@@ -127,7 +127,7 @@ class op_string
     }
 
     /**
-     * Toglie gli ultimi n caratteri da una stringa
+     * Toglie gli ultimi n caratteri da una stringa.
      * @param string $string
      * @param int $count
      * @return string
@@ -142,7 +142,7 @@ class op_string
     }
 
     /**
-     * Toglie i primi n caratteri da una stringa
+     * Toglie i primi n caratteri da una stringa.
      * @param string $string
      * @param int $count
      * @return string
@@ -157,7 +157,7 @@ class op_string
     }
 
     /**
-     * Converte un valore boolean in una stringa
+     * Converte un valore boolean in una stringa.
      * @param bool $value
      * @param string $trueString
      * @param string $falseString
@@ -175,7 +175,7 @@ class op_string
     }
 
     /**
-     * Converte un valore boolean in 0 o 1
+     * Converte un valore boolean in 0 o 1.
      * @param bool $value
      * @return int
      */
@@ -191,7 +191,7 @@ class op_string
     }
 
     /**
-     * Converte una valore stringa in booleano
+     * Converte una valore stringa in booleano.
      * @param string $value
      * @param string $falseValue
      * @param bool $caseSensitive
@@ -208,7 +208,7 @@ class op_string
     }
 
     /**
-     * Converte un valore intero in booleano
+     * Converte un valore intero in booleano.
      * @param int $value
      * @return bool
      */
