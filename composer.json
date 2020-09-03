@@ -1,7 +1,6 @@
 {
     "name": "openbox/obpack",
     "description": "OpenBox webPack",
-    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "authors": [
